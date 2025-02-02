@@ -23,7 +23,7 @@ Puedes ver mi portafolio en vivo aquí: [Mariano Durán - Portafolio](https://ma
 Desarrollé una plataforma para compras en línea con exploración de productos, pagos y gestión de pedidos.
 
 **Tecnologías:** .NET, React, MySQL  
-[🔗 Ver Proyecto](#)
+[🔗 Ver Proyecto](#https://github.com/Marianoda20027/lenguajes24)
 
 ### 📌 [ContaminaDos - Interactive Game](#)
 Desarrollé un juego multijugador interactivo enfocado en la educación ambiental.
