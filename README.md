@@ -1,7 +1,4 @@
 # 🌟 Mariano Durán - Portafolio
-
-![Portfolio Preview](https://via.placeholder.com/1000x500.png?text=Portfolio+Preview)
-
 Bienvenido a mi portafolio en GitHub. Aquí puedes encontrar información sobre mis proyectos, habilidades y experiencia en desarrollo.
 
 ## 🚀 Sobre mí
