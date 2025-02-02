@@ -5,7 +5,7 @@ Bienvenido a mi portafolio en GitHub. Aquí puedes encontrar información sobre 
 Soy un desarrollador apasionado por la tecnología y la creación de soluciones innovadoras. Me apasiona el desarrollo web y despliegue de aplicaciones
 
 ## 🔗 Enlace al portafolio
-Puedes ver mi portafolio en vivo aquí: [Mariano Durán - Portafolio](https://mariano-duran-portafolio-4by0csnpy-marianoda20027s-projects.vercel.app/)
+Puedes ver mi portafolio en vivo aquí: [Mariano Durán - Portafolio](https://mariano-duran-portafolio-6shr6fx4p-marianoda20027s-projects.vercel.app/)
 
 ## 🛠️ Tecnologías y Herramientas
 - React.js
@@ -29,7 +29,7 @@ Desarrollé una plataforma para compras en línea con exploración de productos,
 Desarrollé un juego multijugador interactivo enfocado en la educación ambiental.
 
 **Tecnologías:** Spring Boot, Next.js, MongoDB, Oracle Cloud  
-[🔗 Ver Proyecto](#)
+[🔗 Ver Proyecto](https://github.com/Marianoda20027/ContaminaDOS)
 
 ### 📌 [AI Chatbot](#)
 Construí un chatbot con inteligencia artificial para atención al cliente utilizando procesamiento de lenguaje natural.
@@ -41,7 +41,7 @@ Construí un chatbot con inteligencia artificial para atención al cliente utili
 Se desarrolló el backend de una clínica, incluyendo un estudio detallado de requisitos, casos de uso y más.
 
 **Tecnologías:** Spring Boot  
-[🔗 Ver Proyecto](#)
+[🔗 Ver Proyecto](https://github.com/Marianoda20027/Clinic_UCR)
 
 ## 📬 Contacto
 📧 **Email:** marianoda20027@gmail.com  
